@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "text": "Meeting with boss",
+      "day": "March 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": "f82163d4-15a0-46bb-a265-5b5e549e0c62",
+      "text": "Destinal",
+      "day": "May 5th 3:00pm",
+      "reminder": true
+    },
+    {
+      "id": "8f6d2552-c7d0-4c59-bfbe-5c27523c65ad",
+      "text": "Work from home",
+      "day": "31 Aug 2021 at 07:45am",
+      "reminder": true
+    }
+  ]
+}
